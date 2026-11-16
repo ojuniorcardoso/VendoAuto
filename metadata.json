@@ -1,0 +1,6 @@
+{
+  "name": "VENDOAUTO.com.br",
+  "description": "Portal brasileiro de compra e venda de carros, motos e utilitários novos e seminovos com consulta à Tabela FIPE e simulação de financiamento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
